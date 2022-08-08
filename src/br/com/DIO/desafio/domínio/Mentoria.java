@@ -1,5 +1,7 @@
 package br.com.DIO.desafio.domínio;
 
+import br.com.DIO.desafio.domínio.d.Conteúdo;
+
 import java.time.LocalDate;
 
 public class Mentoria extends Conteúdo {

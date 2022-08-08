@@ -1,8 +1,8 @@
 package br.com.DIO.desafio.domínio;
 
-import java.time.LocalDate;
+import br.com.DIO.desafio.domínio.d.Conteúdo;
 
-public class Curso extends Conteúdo{
+public class Curso extends Conteúdo {
 
 
     private int cargaHoraria;

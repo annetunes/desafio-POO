@@ -1,4 +1,4 @@
-package br.com.DIO.desafio.domínio;
+package br.com.DIO.desafio.domínio.d;
 
 public abstract class Conteúdo {
 
