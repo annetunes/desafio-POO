@@ -1,7 +1,5 @@
 package br.com.DIO.desafio.domínio;
 
-import br.com.DIO.desafio.domínio.d.Conteúdo;
-
 public class Curso extends Conteúdo {
 
 

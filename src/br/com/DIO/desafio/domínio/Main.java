@@ -1,9 +1,5 @@
 package br.com.DIO.desafio.domínio;
 
-import br.com.DIO.desafio.domínio.d.Bootcamp;
-import br.com.DIO.desafio.domínio.d.Conteúdo;
-import br.com.DIO.desafio.domínio.d.Dev;
-
 import java.time.LocalDate;
 
 public class Main {
